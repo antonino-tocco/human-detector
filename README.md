@@ -20,3 +20,8 @@ After training complete you can predict the presence of a human in an image usin
 python predict.py image_path
 
 The script print the predicted category (human or no human) and the probability
+
+
+## Evolution
+
+The project is not complete. For complete project it can be useful connect it to a raspberry py with a camera module and run the detection at runtime in images capture
